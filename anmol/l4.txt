@@ -3,6 +3,3 @@ c++
 c
 Python
 php
-hgshss
-c#
-English

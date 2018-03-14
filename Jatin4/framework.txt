@@ -1,4 +1,2 @@
 Laravel
 Swing
-gsgsgd
-Flask
