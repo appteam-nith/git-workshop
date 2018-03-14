@@ -3,5 +3,3 @@ c++
 c
 Python
 php
-c#
-English
