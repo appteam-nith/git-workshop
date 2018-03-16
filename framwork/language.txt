@@ -1,4 +1,0 @@
-C
-C++
-Java
-python
