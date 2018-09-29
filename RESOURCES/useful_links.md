@@ -15,3 +15,11 @@ Udacity free course on git and GitHub: https://in.udacity.com/course/how-to-use-
 
 Best resource for practise: https://try.github.io/
 
+## Video links
+
+Building the future: https://www.youtube.com/watch?v=HzZxcfVn_08
+
+Girls Who Code Graduation Salutation from GitHub
+: https://www.youtube.com/watch?v=e5KzPnpzZQQ
+
+
