@@ -1,0 +1,17 @@
+
+## Useful Links
+
+Hacktoberfest: https://hacktoberfest.digitalocean.com/
+
+Google Summer of Code: https://summerofcode.withgoogle.com/
+
+GitHub Student Pack: https://education.github.com/pack
+
+Hack On Hills Facebook link: https://fb.com/hackonhills
+
+## Further Learning/Practising resources
+
+Udacity free course on git and GitHub: https://in.udacity.com/course/how-to-use-git-and-github--ud775-india
+
+Best resource for practise: https://try.github.io/
+
