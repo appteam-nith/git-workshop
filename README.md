@@ -1,4 +1,4 @@
-# git-workshop
+# git-workshop NITH
 
 The presentation used during workshop session is [available here](https://github.com/appteam-nith/git-workshop/blob/master/RESOURCES/vcs_seminar_final.pdf).
 
