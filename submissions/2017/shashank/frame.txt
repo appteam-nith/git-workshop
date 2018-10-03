@@ -1,0 +1,4 @@
+android marshmallow
+android kitkat
+ios
+windows
