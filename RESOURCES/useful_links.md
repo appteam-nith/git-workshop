@@ -9,6 +9,10 @@ GitHub Student Pack: https://education.github.com/pack
 
 Hack On Hills Facebook link: https://fb.com/hackonhills
 
+Coding Language pack :      https://Geeksforgeeks.com/gkg
+
+web development and design of softwares  : https://www.topcoder.com/
+
 ## Further Learning/Practising resources
 
 Udacity free course on git and GitHub: https://in.udacity.com/course/how-to-use-git-and-github--ud775-india
