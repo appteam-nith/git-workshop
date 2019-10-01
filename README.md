@@ -16,5 +16,5 @@ For any help on git or github, you can anytime open up an issue asking your ques
 
 AppTeam NITH Facebook Page: https://www.facebook.com/appteam.nith
 
-Thank you a lot!!
-
+Thank you a lot
+and best of luck!!
