@@ -1,0 +1,4 @@
+#1 Create a account on github , ignore if already have .
+#2 Register on "https://hacktoberfest.digitalocean.com/"
+#3 Make 5 pull request on github to solve issues on hacktoberfest.
+ 
