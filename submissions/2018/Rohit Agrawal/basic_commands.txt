@@ -1,0 +1,7 @@
+Basic commands used in hacktoberfest to make a pr on github -
+
+- git clone "//url of pr"
+- git add *
+- git commit -m "//comments" 
+- git status 
+- git push
