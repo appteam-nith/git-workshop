@@ -6,6 +6,8 @@
  - Udaan
  - 2 States
  - 3 Idiots
+ - October
+ - Rand De Basanti
  
 ### Hollywood Movies
 
