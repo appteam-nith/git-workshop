@@ -19,3 +19,4 @@
  - Twilight Saga
  - Shutter Island
  - The Man who knew infinity
+ - Forrest Gump
