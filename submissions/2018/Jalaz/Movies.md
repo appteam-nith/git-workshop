@@ -8,6 +8,7 @@
  - 3 Idiots
  - October
  - Rand De Basanti
+ - Chhichhore
  
 ### Hollywood Movies
 
