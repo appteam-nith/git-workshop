@@ -4,7 +4,7 @@ The presentation used during workshop session is [available here](https://github
 
 This is repository which was created with the aim to provide the practice platform for the First Year Student of National Institute of Technology, Hamirpur on the Version Control System - Git. 
 
-The workshop was conducted on:- 
+The workshop was conducted on :- 
 - 28 October , 2017
 - 30 September, 2018 
 
