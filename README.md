@@ -6,7 +6,7 @@ This is repository which was created with the aim to provide the practice platfo
 
 The workshop was conducted on:- 
 - 28 October , 2017
-- 30 September, 2018 
+- 30 September , 2018 
 
 The ultimate aim of the workshop was to provide an introduction and provide an hand on experience of the Git by practicing various command of the Git.
 
