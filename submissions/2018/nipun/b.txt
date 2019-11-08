@@ -1,0 +1,6 @@
+greedy 
+dp 
+trees
+graphs
+sorting
+
